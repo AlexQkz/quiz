@@ -1,0 +1,32 @@
+[
+  {
+    "image_url": "https://i.imgur.com/w3duR07.png",
+    "answer": "Distracted Boyfriend",
+    "options": [
+      "Distracted Boyfriend",
+      "Woman Yelling at Cat",
+      "Drake",
+      "Doge"
+    ]
+  },
+  {
+    "image_url": "https://i.imgur.com/kN1fBtW.jpeg",
+    "answer": "Woman Yelling at Cat",
+    "options": [
+      "Grumpy Cat",
+      "Woman Yelling at Cat",
+      "Galaxy Brain",
+      "Trollface"
+    ]
+  },
+  {
+    "image_url": "https://i.imgur.com/P9ZL9w0.jpeg",
+    "answer": "Drakeposting",
+    "options": [
+      "Drakeposting",
+      "Confused Nick Young",
+      "Pepe",
+      "One Does Not Simply"
+    ]
+  }
+]
